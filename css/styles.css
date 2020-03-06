@@ -1,1 +1,32 @@
+body {
+    background-color: #e4f9f5;
+    text-align: center;
+}
 
+hr {
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1 {
+    color: #11999e;
+}
+
+h3 {
+    color: #11999e;
+}
+
+table {
+    margin: 0 auto;
+}
+
+div {
+    margin: 0 auto;
+}
+
+#yusvelPicture {
+    border-radius: 100%;
+}
